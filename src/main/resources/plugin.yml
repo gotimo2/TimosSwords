@@ -1,0 +1,5 @@
+name: TimosSwords
+version: ${project.version}
+main: ts.plugin.Plugin
+api-version: 1.17
+author: gotimo
